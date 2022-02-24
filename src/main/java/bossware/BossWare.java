@@ -158,7 +158,7 @@ public class BossWare {
         tracker = new Tracker();
         
         LOGGER.info("HWID check...");
-        if (!HWIDManager.hwidCheck()) {
+      //  if (!HWIDManager.hwidCheck()) {
             LOGGER.error("HWID NOT FOUND!");
             unload(true);
         }
