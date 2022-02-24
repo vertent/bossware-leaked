@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "bossware",
+    "name": "BossWare",
+    "description": "Bossware is a based client made by Nsm and vertent",
+    "version": "0.0.1",
+    "mcversion": "1.12.2",
+    "logoFile": "bossware.png",
+    "url": "https://discord.gg/ZJuSz5pECv",
+    "updateUrl": "",
+    "authorList": [
+      "Nsm",
+      "vertent"
+    ],
+    "screenshots": [],
+    "dependencies": []
+  }
+]
